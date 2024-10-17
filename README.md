@@ -49,6 +49,9 @@ I'm a visionary developer focused on building scalable frameworks, highly optimi
 [![GitHub iBoss21](https://img.shields.io/github/followers/iBoss21?label=follow&style=social)](https://github.com/iBoss21)
 [![Twitter: YourTwitterHandle](https://img.shields.io/twitter/follow/mylife?style=social)](https://twitter.com/mylife)
 
+![Profile Views](https://komarev.com/ghpvc/?username=iBoss21&label=Profile%20views&color=c82107&style=flat)  
+
 ---
 
 ⭐️ From [iBoss21](https://github.com/iBoss21)
+
