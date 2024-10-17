@@ -1,6 +1,3 @@
-Here’s a GitHub profile README for **iBoss21** including badges, stats, and streaks, similar to the examples you provided. I'll integrate as many relevant elements as possible to reflect your work and presence on GitHub, focusing on adding dynamic content.
-
----
 
 ## 👋 Welcome to iBoss21's GitHub
 
@@ -50,6 +47,3 @@ I am committed to expanding LXRCore and similar projects, with an eye toward con
 - [Discord: LXRCore](https://discord.gg/5DGEv4kK7Q)
 - [Official Website](https://lxrcore.likeaking.pro/)
 
----
-
-This version includes dynamic stats, streaks, profile views, top languages, and more. Let me know if you'd like any further customizations!
