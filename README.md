@@ -5,7 +5,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/iBoss21?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/mylife?style=social)
 
-I'm a visionary developer focused on building scalable frameworks, highly optimized applications, and immersive gaming environments. As the creator of **LXRCore**, I aim to push the boundaries of what is possible in RedM roleplay, creating truly unique and unforgettable experiences.
+### 🚀 About Me:
+I'm **iBoss**, a dedicated developer with a focus on high-performance frameworks and cutting-edge solutions for the RedM and FiveM roleplay communities. I created the **LXRCore RedM Framework**, designed to be flexible, super-fast, and easily customizable for immersive roleplay experiences.
+
+- 🛠️ **Developer:** LXRCore RedM Framework
+- 🎯 **Mission:** To create the most advanced roleplay tools
+- 🌐 **Website:** [LXRCore Official](https://lxrcore.likeaking.pro/)
 
 ### 🔧 Technologies & Tools
 
