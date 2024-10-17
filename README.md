@@ -18,6 +18,13 @@ I'm a visionary developer focused on building scalable frameworks, highly optimi
 
 ### 📈 GitHub Stats
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iBoss21&theme=dark&hide_border=true)  
+![iBoss21's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=iBoss21&show_icons=true&include_all_commits=true&count_private=true&title_color=a40619&icon_color=a960ff&text_color=ffffff&bg_color=0c0b0c)
+
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iBoss21&layout=compact&langs_count=8&theme=dark)](https://github.com/iBoss21/github-readme-stats)
+
+---
+
 <a href="https://github.com/iBoss21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBoss21&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
